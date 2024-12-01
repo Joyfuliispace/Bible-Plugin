@@ -1,5 +1,6 @@
 /Bible available
 This command is used to list all available bibles that you can download from the plugin, there are currently 7 different languages.
+
 ![bible 1](https://github.com/user-attachments/assets/dea1bacf-247d-4053-914b-0092997eeec3)
 
 /Bible downloaded
@@ -13,6 +14,7 @@ This process will usually take a few seconds, a bible file usually weights aroun
 
 /Bible load [name]
 This command is used to load a bible that has already been downloaded and has been successfully stored into the /BiblePlugin/bibles/ folder. Loading a bible is a fast process, and you will be notified when the bible has been loaded correctly with a chat message.
+
 ![bible 3](https://github.com/user-attachments/assets/e8c4da0c-1acd-4d7b-b121-7cfd3686a73f)
 
 /Bible verse [bible] [book:chapter:verse]
@@ -32,6 +34,7 @@ You will recieve a message with the total count of verses from that chapter
 /Bible chapters [bible:book]
 This command is used to know how many chapters does a book from a bible have. You will need to specify the chapter by using the default format, which is BIBLENAME:BOOKNAME
 You will recieve a message with the total count of chapters from that book
+
 ![bible 7](https://github.com/user-attachments/assets/63156bfd-7ae7-4268-bc20-c496ac744802)
 
 /Bible books [bible]
